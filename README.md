@@ -34,5 +34,5 @@ An interactive, multi-page Power BI dashboard built using an e-commerce dataset 
 ---
 
 ## 🚀 How to Explore This Project
-1. Download the [.pbix file] from this repository.
+1. Download the https://github.com/kalyan-1305/Ecommerce-PowerBI-Analytics-Dashboard/blob/main/Ecommerce_Analytics_Dashboard.pbix.pbix from this repository.
 2. Open the file using **Power BI Desktop** to interact with the data model, filters, and visuals locally.
