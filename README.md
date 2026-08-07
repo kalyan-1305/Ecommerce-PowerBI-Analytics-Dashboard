@@ -23,7 +23,8 @@ An interactive, multi-page Power BI dashboard built using an e-commerce dataset 
 ### Page 3: Order Fulfillment Overview
 * **Visuals:** Total order volume KPI card (99,441), order status distribution donut chart, and categorical status bar chart.
 * **Business Insights:** Measures operational health and fulfillment success rates, monitoring completed orders versus cancellations and processing exceptions.
-* ![Page 3 Screenshot]<img width="1167" height="652" alt="Screenshot 2026-08-07 160636" src="https://github.com/user-attachments/assets/6e94c0ea-d5f4-4d0d-b214-1a35e07f8df7" />
+* <img width="1167" height="652" alt="image" src="https://github.com/user-attachments/assets/effbbf89-80d9-455c-9a0c-62917cafa42a" />
+
 
 
 ---
