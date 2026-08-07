@@ -16,7 +16,8 @@ An interactive, multi-page Power BI dashboard built using an e-commerce dataset 
 ### Page 2: Shipping & Freight Analysis
 * **Visuals:** Total freight cost KPI summary card (2.25M), shipping timeline bar chart, and seller freight breakdown column chart.
 * **Business Insights:** Audits supply chain overhead by tracking shipping expenses against delivery timelines and individual vendor performance.
-* ![Page 2 Screenshot]<img width="1161" height="655" alt="Screenshot 2026-08-07 160607" src="https://github.com/user-attachments/assets/6ab10f95-f788-41b7-bade-1c35a26a42d7" />
+*<img width="1161" height="655" alt="image" src="https://github.com/user-attachments/assets/afd05f9b-a81e-44cd-8c25-691c6c4d0add" />
+
 
 
 ### Page 3: Order Fulfillment Overview
