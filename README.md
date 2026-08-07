@@ -16,7 +16,7 @@ An interactive, multi-page Power BI dashboard built using an e-commerce dataset 
 ### Page 2: Shipping & Freight Analysis
 * **Visuals:** Total freight cost KPI summary card (2.25M), shipping timeline bar chart, and seller freight breakdown column chart.
 * **Business Insights:** Audits supply chain overhead by tracking shipping expenses against delivery timelines and individual vendor performance.
-* ![Page 2 Screenshot](./images/page2.jpg)
+* ![Page 2 Screenshot]("C:\Users\Guna\OneDrive\Documents\KALYAN\images\Screenshot 2026-08-07 160607.png")
 
 ### Page 3: Order Fulfillment Overview
 * **Visuals:** Total order volume KPI card (99,441), order status distribution donut chart, and categorical status bar chart.
