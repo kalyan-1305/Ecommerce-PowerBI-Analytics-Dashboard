@@ -10,7 +10,8 @@ An interactive, multi-page Power BI dashboard built using an e-commerce dataset 
 ### Page 1: Revenue & Product Performance
 * **Visuals:** Monthly revenue line chart, top-performing products bar chart, and an interactive state slicer.
 * **Business Insights:** Tracks seasonal sales fluctuations and identifies high-revenue product lines to optimize inventory management.
-* ![Page 1 Screenshot](Screenshot 2026-08-07 160346.png)
+* ![Page 1 Screenshot](<img width="1168" height="657" alt="Screenshot 2026-08-07 160346" src="https://github.com/user-attachments/assets/f5044cef-6270-4252-8e77-b41a22e42b89" />
+)
 
 ### Page 2: Shipping & Freight Analysis
 * **Visuals:** Total freight cost KPI summary card (2.25M), shipping timeline bar chart, and seller freight breakdown column chart.
